@@ -1,4 +1,4 @@
-I do not take credit for these lecture notes. I am just sharing for anyone who wants to learn about the different optimisation methods.
+I do not take credit for these lecture notes. I am just sharing for anyone who wants to learn about the different optimisation methods. The shared codes I do not claim ownership also.
 
 The prerequisites for linear: Advanced Calculus and Linear algebra.
 The prerequisites for non-linear especially convex: Advanced Calculus, Linear Algebra, Probability Theory and some elements of stochastic processes, real analysis and some functional analysis (although these analysis topics are not important prerequisites but very helpful imo).
