@@ -14,8 +14,8 @@ The premise of the shared convex optimisation lectures are based on cvx-Book by 
 This is recommended for electrical engineers (with mathematical maturity) however, I believe applied mathematicians have better background to study this due to the mathematical maturity required.
 
 Conclusion:
-
+N\A.
 
 Update:
-I will share future lectures on Linear and conic optimisation methods.
+I will share more on optimisation methods and another repository on experimenting with different optimisation algorithms primarily on Python.
 
