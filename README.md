@@ -6,8 +6,10 @@ The prerequisites for linear: Advanced Calculus and Linear algebra.
 The prerequisites for non-linear especially convex: Advanced Calculus, Linear Algebra, Probability Theory and some elements of stochastic processes, real analysis and some functional analysis (although these analysis topics are not important prerequisites but very helpful imo).
 
 Linear Optimisaition:
+N\A.
 
 Conic Optimisation:
+N\A.
 
 Convex Optimisation:
 The premise of the shared convex optimisation lectures are based on cvx-Book by Stanford: https://web.stanford.edu/~boyd/cvxbook/ and it is highly recommeneded to experiment using cvxy python library.
