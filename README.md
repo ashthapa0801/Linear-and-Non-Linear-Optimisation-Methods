@@ -16,7 +16,6 @@ N\A.
 Convex Optimisation: 
 The premise of the shared convex optimisation lectures are based on cvx-Book by Stanford, https://web.stanford.edu/~boyd/cvxbook/ and it is highly recommeneded to experiment using cvxy python library.
 This is recommended for electrical engineers (with mathematical maturity) however, I believe applied mathematicians have better background to study this due to the mathematical maturity required. 
-Extra Resources, https://web.stanford.edu/~boyd/cvxbook (different to the lecture slides I have shared).
 
 Conclusion: 
 N\A.
