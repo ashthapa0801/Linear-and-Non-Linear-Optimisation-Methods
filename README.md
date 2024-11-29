@@ -14,7 +14,7 @@ Conic Optimisation:
 N\A.
 
 Convex Optimisation: 
-The premise of the shared convex optimisation lectures are based on cvx-Book by Stanford, https://web.stanford.edu/~boyd/cvxbook/ and it is highly recommeneded to experiment using cvxy python library.
+The premise of the shared convex optimisation lectures are based on cvx-Book by Stanford, https://web.stanford.edu/~boyd/cvxbook/ and it is highly recommeneded to experiment using cvxy python library.The lecture slides do contain elements of Linear Optimisation but, it primarily focuses on the Convex Optimisation focus so the you do not need a background in Linear optimisation for this (although useful but not a strong prerequisite).
 This is recommended for electrical engineers (with mathematical maturity) however, I believe applied mathematicians have better background to study this due to the mathematical maturity required. 
 
 Conclusion: 
